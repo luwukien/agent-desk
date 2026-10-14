@@ -1,0 +1,24 @@
+{
+  "ExecutedAt": "2026-10-12T00:17:51.0421862+07:00",
+  "Windows": "Microsoft Windows NT 10.0.26200.0",
+  "Framework": ".NET 8.0.31",
+  "ExitCode": 0,
+  "Results": [
+    "PASS: PowerShell input/output \u002B PID",
+    "PASS: Output received from ConPTY",
+    "PASS: Two independent shell processes",
+    "PASS: Hidden tab keeps executing",
+    "PASS: 20 switches preserve PID and variables",
+    "PASS: WPF resize reaches shell: 71x13",
+    "PASS: Ctrl\u002BC byte interrupts PowerShell command",
+    "PASS: Child process started for close test",
+    "PASS: Closing A kills shell \u002B child; B survives",
+    "PASS: B remains interactive after closing A",
+    "PASS: Close immediately after opening",
+    "PASS: Invalid executable reports startup failure",
+    "PASS: Shell exit command completes and tab can close",
+    "PASS: Installed CLI version via terminal: codex-cli 0.160.0",
+    "UNVERIFIED: Agent prompt/response. Probe intentionally sends no input after CLI startup.",
+    "OBSERVATION: Physical keys, navigation, approval, and interruption of a running agent task require manual checks."
+  ]
+}

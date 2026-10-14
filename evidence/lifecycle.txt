@@ -1,0 +1,18 @@
+2026-10-12T00:17:43.0809406+07:00 PowerShell 1 close begin
+2026-10-12T00:17:43.0838718+07:00 PowerShell 1 startup resolved
+2026-10-12T00:17:43.0844731+07:00 PowerShell 1 kill tree begin
+2026-10-12T00:17:43.1217781+07:00 PowerShell 1 kill tree done
+2026-10-12T00:17:43.1226335+07:00 PowerShell 1 run finished
+2026-10-12T00:17:43.4062003+07:00 PowerShell 3 close begin
+2026-10-12T00:17:43.4064897+07:00 PowerShell 3 run finished
+2026-10-12T00:17:43.4335915+07:00 PowerShell 4 close begin
+2026-10-12T00:17:43.4340180+07:00 PowerShell 4 startup resolved
+2026-10-12T00:17:43.4342939+07:00 PowerShell 4 run finished
+2026-10-12T00:17:44.5615575+07:00 PowerShell 5 close begin
+2026-10-12T00:17:44.5619018+07:00 PowerShell 5 startup resolved
+2026-10-12T00:17:44.5632338+07:00 PowerShell 5 run finished
+2026-10-12T00:17:50.9464059+07:00 PowerShell 2 close begin
+2026-10-12T00:17:50.9467182+07:00 PowerShell 2 startup resolved
+2026-10-12T00:17:50.9470199+07:00 PowerShell 2 kill tree begin
+2026-10-12T00:17:50.9908420+07:00 PowerShell 2 kill tree done
+2026-10-12T00:17:51.0086482+07:00 PowerShell 2 run finished
